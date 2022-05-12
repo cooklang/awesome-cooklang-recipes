@@ -1,5 +1,4 @@
-# Awesome Cooklang Recipes
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Cooklang Recipes [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <img src="https://cooklang.org/images/logo.svg" align="left" width="144px" height="144px"/>
 

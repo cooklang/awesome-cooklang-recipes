@@ -1,0 +1,21 @@
+---
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  awesome-lint:
+    desc: Lint using awesome-lint
+    cmds:
+      - "npx awesome-lint"
+  lint:
+    desc: Lint the repo
+    cmds:
+      - task: awesome-lint
+  default:
+    cmds:
+      - task -l
+    silent: true
