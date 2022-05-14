@@ -11,10 +11,23 @@ tasks:
     desc: Lint using awesome-lint
     cmds:
       - "npx awesome-lint"
+  deps:
+    desc: Install dependencies
+    cmds:
+      - pip install -r ./scripts/requirements.txt
   lint:
     desc: Lint the repo
     cmds:
       - task: awesome-lint
+      - task: yamllint
+  render:
+    desc: Render README.md
+    cmds:
+      - "python scripts/render_readme.py > README.md"
+  yamllint:
+    desc: Lint using yamllint
+    cmds:
+      - yamllint .
   default:
     cmds:
       - task -l
