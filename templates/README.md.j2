@@ -18,8 +18,8 @@ This is a curated list of cookbooks and recipes involving the use of the cooklan
 
 | Website | Cooklang | User | Description |
 |---------|----------|------|-------------|
-| - | [cookbook](https://github.com/dubadub/cookbook) | [dubadub](https://github.com/dubadub/) | Recipes written in Cooklang. |
-| [cooking book](https://net-mist-cooking-book.netlify.app/) | [remy](https://github.com/Net-Mist/remy) | [Net-Mist](https://github.com/Net-Mist) | Contains a list of French cooking recipes. |
-| [recipes](https://nicholaswilde.io/recipes/) | [recipes](https://github.com/nicholaswilde/recipes/tree/main/cook) | [nicholaswilde](https://github.com/nicholaswilde/) | A collection of recipes made with Cooklang. |
+{%- for cookbook in user_cookbooks %}
+| {% if cookbook['website']['name']=="-" or cookbook['website']['name']=="" %}-{% else %}[{{ cookbook['website']['name'] }}]({{ cookbook['website']['url'] }}){%- endif %} | {%- if cookbook['cooklang']['name']=="-" or cookbook['cooklang']['name']=="" %}-{% else %} [{{ cookbook['cooklang']['name'] }}]({{ cookbook['cooklang']['url'] }}){%- endif %} | {% if cookbook['user']['url']=="" %}{{ cookbook['user']['name'] }}{% else %}[{{ cookbook['user']['name'] }}]({{ cookbook['user']['url'] }}){% endif %} | {{ cookbook['description'] }} |
+{%- endfor %}
 
 [1]: https://cooklang.org/

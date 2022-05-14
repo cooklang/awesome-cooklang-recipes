@@ -1,0 +1,34 @@
+---
+userCookbooks:
+  - description: "Recipes written in Cooklang."
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cookbook"
+      url: "https://github.com/dubadub/cookbook"
+    user:
+      name: "dubadub"
+      url: "https://github.com/dubadub/"
+
+  - description: "A collection of recipes made with Cooklang."
+    website:
+      name: "recipes"
+      url: "https://nicholaswilde.io/recipes/"
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/nicholaswilde/recipes/tree/main/cook"
+    user:
+      name: "nicholaswilde"
+      url: "https://github.com/nicholaswilde/"
+
+  - description: "Contains a list of French cooking recipes."
+    website:
+      name: "cooking book"
+      url: "https://net-mist-cooking-book.netlify.app/"
+    cooklang:
+      name: "remy"
+      url: "https://github.com/Net-Mist/remy"
+    user:
+      name: "Net-Mist"
+      url: "https://github.com/Net-Mist"
