@@ -49,8 +49,8 @@ userCookbooks:
       name: "Dan's Online Recipe Book"
       url: "https://bonmot.ca/~daniel/Recipes/"
     cooklang:
-      name: "Dan's Online Recipe Book"
-      url: "https://bonmot.ca/~daniel/Recipes/"
+      name: "-"
+      url: ""
     user:
       name: "CapnDan"
       url: "https://bonmot.ca/~daniel/"
