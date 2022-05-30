@@ -32,3 +32,25 @@ userCookbooks:
     user:
       name: "Net-Mist"
       url: "https://github.com/Net-Mist"
+
+  - description: "Repository of recipes made with Cooklang."
+    website:
+      name: ""
+      url: ""
+    cooklang:
+      name: "cookbook"
+      url: "https://github.com/bubonicfred/cookbook"
+    user:
+      name: "bubonicfred"
+      url: "https://github.com/bubonicfred"
+
+  - description: "Dan's Online Recipe Book."
+    website:
+      name: "Dan's Online Recipe Book"
+      url: "https://bonmot.ca/~daniel/Recipes/"
+    cooklang:
+      name: "-"
+      url: ""
+    user:
+      name: "CapnDan"
+      url: "https://bonmot.ca/~daniel/"
