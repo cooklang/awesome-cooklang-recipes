@@ -1,6 +1,8 @@
 <!--lint disable awesome-git-repo-age-->
 # Awesome Cooklang Recipes [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+[![link-check](https://img.shields.io/github/workflow/status/cooklang/awesome-cooklang-recipes/link-check?label=link-check&logo=github&style=for-the-badge)](https://github.com/cooklang/awesome-cooklang-recipes/actions/workflows/link-check.yaml)
+
 <img src="https://cooklang.org/images/logo.svg" align="left" width="144px" height="144px"/>
 
 > [cooklang][1] is a recipe markup language used to simplify your personal recipe management, streamline your shopping
