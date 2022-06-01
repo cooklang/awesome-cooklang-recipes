@@ -20,6 +20,10 @@ tasks:
     cmds:
       - task: awesome-lint
       - task: yamllint
+  linkcheck:
+    desc: Check for dead links
+    cmds:
+      - ./scripts/linkcheck.sh
   render:
     desc: Render README.md
     cmds:
