@@ -54,7 +54,7 @@ Thank you for your suggestions!
 
 ## Testing Changes
 
-The README.md may be tested using []`awesome-lint`][1]
+The README.md may be tested using [`awesome-lint`][1]
 
 ## Updating your PR
 
