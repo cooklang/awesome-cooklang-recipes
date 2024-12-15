@@ -56,352 +56,352 @@ userCookbooks:
       url: "https://bonmot.ca/~daniel/"
 
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "CookBook"
-        url: "https://github.com/Diegothx/CookBook"
-      user:
-        name: "Diegothx"
-        url: "https://github.com/Diegothx"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "CookBook"
+      url: "https://github.com/Diegothx/CookBook"
+    user:
+      name: "Diegothx"
+      url: "https://github.com/Diegothx"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "RecipeManager"
-        url: "https://github.com/javieruhk/RecipeManager/recipes"
-      user:
-        name: "javieruhk"
-        url: "https://github.com/javieruhk"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "RecipeManager"
+      url: "https://github.com/javieruhk/RecipeManager/recipes"
+    user:
+      name: "javieruhk"
+      url: "https://github.com/javieruhk"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "cookbook"
-        url: "https://github.com/2xAA/cookbook/public/recipes"
-      user:
-        name: "2xAA"
-        url: "https://github.com/2xAA"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cookbook"
+      url: "https://github.com/2xAA/cookbook/public/recipes"
+    user:
+      name: "2xAA"
+      url: "https://github.com/2xAA"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "cooking"
-        url: "https://github.com/andoriyu/cooking"
-      user:
-        name: "andoriyu"
-        url: "https://github.com/andoriyu"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cooking"
+      url: "https://github.com/andoriyu/cooking"
+    user:
+      name: "andoriyu"
+      url: "https://github.com/andoriyu"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipebook"
-        url: "https://github.com/azlekov/recipebook/recipes"
-      user:
-        name: "azlekov"
-        url: "https://github.com/azlekov"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipebook"
+      url: "https://github.com/azlekov/recipebook/recipes"
+    user:
+      name: "azlekov"
+      url: "https://github.com/azlekov"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "cookbook"
-        url: "https://github.com/BraeTroutman/cookbook/_recipes"
-      user:
-        name: "BraeTroutman"
-        url: "https://github.com/BraeTroutman"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cookbook"
+      url: "https://github.com/BraeTroutman/cookbook/_recipes"
+    user:
+      name: "BraeTroutman"
+      url: "https://github.com/BraeTroutman"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/brendanmckenzie/recipes"
-      user:
-        name: "brendanmckenzie"
-        url: "https://github.com/brendanmckenzie"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/brendanmckenzie/recipes"
+    user:
+      name: "brendanmckenzie"
+      url: "https://github.com/brendanmckenzie"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "site"
-        url: "https://github.com/briansunter/site/site/recipes"
-      user:
-        name: "briansunter"
-        url: "https://github.com/briansunter"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "site"
+      url: "https://github.com/briansunter/site/site/recipes"
+    user:
+      name: "briansunter"
+      url: "https://github.com/briansunter"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "cooking"
-        url: "https://github.com/crhuber/cooking/recipes/"
-      user:
-        name: "crhuber"
-        url: "https://github.com/crhuber"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cooking"
+      url: "https://github.com/crhuber/cooking/recipes/"
+    user:
+      name: "crhuber"
+      url: "https://github.com/crhuber"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/cvhooser/recipes"
-      user:
-        name: "cvhooser"
-        url: "https://github.com/cvhooser"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/cvhooser/recipes"
+    user:
+      name: "cvhooser"
+      url: "https://github.com/cvhooser"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/demosjarco/recipes/recipes"
-      user:
-        name: "demosjarco"
-        url: "https://github.com/demosjarco"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/demosjarco/recipes/recipes"
+    user:
+      name: "demosjarco"
+      url: "https://github.com/demosjarco"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/dzenzes/recipes/src"
-      user:
-        name: "dzenzes"
-        url: "https://github.com/dzenzes"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/dzenzes/recipes/src"
+    user:
+      name: "dzenzes"
+      url: "https://github.com/dzenzes"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "my-recipes-cooklang"
-        url: "https://github.com/firefly2442/my-recipes-cooklang/recipes"
-      user:
-        name: "firefly2442"
-        url: "https://github.com/firefly2442"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "my-recipes-cooklang"
+      url: "https://github.com/firefly2442/my-recipes-cooklang/recipes"
+    user:
+      name: "firefly2442"
+      url: "https://github.com/firefly2442"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/ggalmazor/recipes"
-      user:
-        name: "ggalmazor"
-        url: "https://github.com/ggalmazor"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/ggalmazor/recipes"
+    user:
+      name: "ggalmazor"
+      url: "https://github.com/ggalmazor"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/Gunde/recipes"
-      user:
-        name: "Gunde"
-        url: "https://github.com/Gunde"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/Gunde/recipes"
+    user:
+      name: "Gunde"
+      url: "https://github.com/Gunde"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/iandennismiller/recipes/cook"
-      user:
-        name: "iandennismiller"
-        url: "https://github.com/iandennismiller"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/iandennismiller/recipes/cook"
+    user:
+      name: "iandennismiller"
+      url: "https://github.com/iandennismiller"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "gn
-        url: "https://github.com/gn"
-      user:
-        name: "ignacio-gn"
-        url: "https://github.com/gn"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cook"
+      url: "https://github.com/ignacio-gn/cook"
+    user:
+      name: "ignacio-gn"
+      url: "https://github.com/ignacio-gn"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/isaacvando/recipes/src"
-      user:
-        name: "isaacvando"
-        url: "https://github.com/isaacvando"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/isaacvando/recipes/src"
+    user:
+      name: "isaacvando"
+      url: "https://github.com/isaacvando"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "RecipeBook"
-        url: "https://github.com/jnobles/RecipeBook/Cook Files"
-      user:
-        name: "jnobles"
-        url: "https://github.com/jnobles"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "RecipeBook"
+      url: "https://github.com/jnobles/RecipeBook/Cook Files"
+    user:
+      name: "jnobles"
+      url: "https://github.com/jnobles"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "helanxiaochu"
-        url: "https://github.com/JorenC/helanxiaochu/src/assets/recipes"
-      user:
-        name: "JorenC"
-        url: "https://github.com/JorenC"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "helanxiaochu"
+      url: "https://github.com/JorenC/helanxiaochu/src/assets/recipes"
+    user:
+      name: "JorenC"
+      url: "https://github.com/JorenC"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/justintout/recipes"
-      user:
-        name: "justintout"
-        url: "https://github.com/justintout"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/justintout/recipes"
+    user:
+      name: "justintout"
+      url: "https://github.com/justintout"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "rezepte"
-        url: "https://github.com/leMaik/rezepte/recipes"
-      user:
-        name: "leMaik"
-        url: "https://github.com/leMaik"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "rezepte"
+      url: "https://github.com/leMaik/rezepte/recipes"
+    user:
+      name: "leMaik"
+      url: "https://github.com/leMaik"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "cooklang-recipes"
-        url: "https://github.com/LiHRaM/cooklang-recipes/recipes"
-      user:
-        name: "LiHRaM"
-        url: "https://github.com/LiHRaM"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cooklang-recipes"
+      url: "https://github.com/LiHRaM/cooklang-recipes/recipes"
+    user:
+      name: "LiHRaM"
+      url: "https://github.com/LiHRaM"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "comidadaboa"
-        url: "https://github.com/LudeeD/comidadaboa/recipes"
-      user:
-        name: "LudeeD"
-        url: "https://github.com/LudeeD"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "comidadaboa"
+      url: "https://github.com/LudeeD/comidadaboa/recipes"
+    user:
+      name: "LudeeD"
+      url: "https://github.com/LudeeD"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "menu"
-        url: "https://github.com/luizribeiro/menu/recipes"
-      user:
-        name: "luizribeiro"
-        url: "https://github.com/luizribeiro"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "menu"
+      url: "https://github.com/luizribeiro/menu/recipes"
+    user:
+      name: "luizribeiro"
+      url: "https://github.com/luizribeiro"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "galaiko.rocks"
-        url: "https://github.com/ngalaiko/galaiko.rocks/assets/cocktails"
-      user:
-        name: "ngalaiko"
-        url: "https://github.com/ngalaiko"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "galaiko.rocks"
+      url: "https://github.com/ngalaiko/galaiko.rocks/assets/cocktails"
+    user:
+      name: "ngalaiko"
+      url: "https://github.com/ngalaiko"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "cookbook"
-        url: "https://github.com/openpaul/cookbook/cook"
-      user:
-        name: "openpaul"
-        url: "https://github.com/openpaul"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cookbook"
+      url: "https://github.com/openpaul/cookbook/cook"
+    user:
+      name: "openpaul"
+      url: "https://github.com/openpaul"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "for-review
-        url: "https://github.com/review"
-      user:
-        name: "Ready-for-review"
-        url: "https://github.com/review"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "ready-for-review"
+      url: "https://github.com/Ready-for-review/ready-for-review"
+    user:
+      name: "Ready-for-review"
+      url: "https://github.com/Ready-for-review"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "sat
-        url: "https://github.com/sat"
-      user:
-        name: "shen-sat"
-        url: "https://github.com/sat"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "cooklang"
+      url: "https://github.com/shen-sat/cooklang"
+    user:
+      name: "shen-sat"
+      url: "https://github.com/shen-sat"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/simcard0000/recipes"
-      user:
-        name: "simcard0000"
-        url: "https://github.com/simcard0000"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/simcard0000/recipes"
+    user:
+      name: "simcard0000"
+      url: "https://github.com/simcard0000"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/surzycki/recipes"
-      user:
-        name: "surzycki"
-        url: "https://github.com/surzycki"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/surzycki/recipes"
+    user:
+      name: "surzycki"
+      url: "https://github.com/surzycki"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/tdstein/recipes/recipes"
-      user:
-        name: "tdstein"
-        url: "https://github.com/tdstein"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/tdstein/recipes/recipes"
+    user:
+      name: "tdstein"
+      url: "https://github.com/tdstein"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipe_archive"
-        url: "https://github.com/tntraina/recipe_archive"
-      user:
-        name: "tntraina"
-        url: "https://github.com/tntraina"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipe_archive"
+      url: "https://github.com/tntraina/recipe_archive"
+    user:
+      name: "tntraina"
+      url: "https://github.com/tntraina"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "recipes"
-        url: "https://github.com/TyHil/recipes/recipes"
-      user:
-        name: "TyHil"
-        url: "https://github.com/TyHil"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "recipes"
+      url: "https://github.com/TyHil/recipes/recipes"
+    user:
+      name: "TyHil"
+      url: "https://github.com/TyHil"
   - description: "Repo with recipes written in Cooklang."
-      website:
-        name: "-"
-        url: ""
-      cooklang:
-        name: "innovation-dinner-2022"
-        url: "https://github.com/XpiritBV/innovation-dinner-2022"
-      user:
-        name: "XpiritBV"
-        url: "https://github.com/XpiritBV"
+    website:
+      name: "-"
+      url: ""
+    cooklang:
+      name: "innovation-dinner-2022"
+      url: "https://github.com/XpiritBV/innovation-dinner-2022"
+    user:
+      name: "XpiritBV"
+      url: "https://github.com/XpiritBV"
