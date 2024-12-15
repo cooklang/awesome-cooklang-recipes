@@ -16,7 +16,7 @@ This is a curated list of cookbooks and recipes involving the use of the cooklan
 
 ## Cookbooks
 
-| Website | Cooklang | User | Description |
+| Website | Repository | User | Description |
 |---------|----------|------|-------------|
 {%- for cookbook in user_cookbooks %}
 | {% if cookbook['website']['name']=="-" or cookbook['website']['name']=="" %}-{% else %}[{{ cookbook['website']['name'] }}]({{ cookbook['website']['url'] }}){%- endif %} | {%- if cookbook['cooklang']['name']=="-" or cookbook['cooklang']['name']=="" %}-{% else %} [{{ cookbook['cooklang']['name'] }}]({{ cookbook['cooklang']['url'] }}){%- endif %} | {% if cookbook['user']['url']=="" %}{{ cookbook['user']['name'] }}{% else %}[{{ cookbook['user']['name'] }}]({{ cookbook['user']['url'] }}){% endif %} | {{ cookbook['description'] }} |
