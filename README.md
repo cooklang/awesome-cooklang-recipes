@@ -25,6 +25,7 @@ This is a curated list of cookbooks and recipes involving the use of the cooklan
 | [Dan's Online Recipe Book](https://bonmot.ca/~daniel/Recipes/) |- | [CapnDan](https://bonmot.ca/~daniel/) | Dan's Online Recipe Book. |
 | - | [CookBook](https://github.com/Diegothx/CookBook) | [Diegothx](https://github.com/Diegothx) | Repo with recipes written in Cooklang. |
 | - | [RecipeManager](https://github.com/javieruhk/RecipeManager/tree/main/recipes) | [javieruhk](https://github.com/javieruhk) | Repo with recipes written in Cooklang. |
+| [https://mgw.dumatics.com/a_diabetics_journal/](https://mgw.dumatics.com/a_diabetics_journal/) | [a_diabetics_journal](https://github.com/pubmania/a_diabetics_journal/tree/main/docs/Recipes) | [pubmania](https://github.com/pubmania) | A journal that details attempts of this diabetic at leading a normal life. |
 | - | [cookbook](https://github.com/2xAA/cookbook/tree/main/public/recipes) | [2xAA](https://github.com/2xAA) | Repo with recipes written in Cooklang. |
 | - | [cooking](https://github.com/andoriyu/cooking) | [andoriyu](https://github.com/andoriyu) | Repo with recipes written in Cooklang. |
 | - | [recipebook](https://github.com/azlekov/recipebook/tree/main/recipes) | [azlekov](https://github.com/azlekov) | Repo with recipes written in Cooklang. |

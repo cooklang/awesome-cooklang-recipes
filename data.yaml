@@ -75,6 +75,16 @@ userCookbooks:
     user:
       name: "javieruhk"
       url: "https://github.com/javieruhk"
+  - description: "A journal that details attempts of this diabetic at leading a normal life."
+    website:
+      name: "https://mgw.dumatics.com/a_diabetics_journal/"
+      url: "https://mgw.dumatics.com/a_diabetics_journal/"
+    cooklang:
+      name: "a_diabetics_journal"
+      url: "https://github.com/pubmania/a_diabetics_journal/tree/main/docs/Recipes"
+    user:
+      name: "pubmania"
+      url: "https://github.com/pubmania"
   - description: "Repo with recipes written in Cooklang."
     website:
       name: "-"
