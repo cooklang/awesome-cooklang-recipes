@@ -34,9 +34,8 @@ def render_readme_template():
     user_cookbooks=yaml_data[ROOT_NODE],
   )
   return output
-  
+
 def main():
-  massage_data()
   print(render_readme_template())
   return 0
 

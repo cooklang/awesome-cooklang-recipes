@@ -18,8 +18,11 @@ This is a curated list of cookbooks and recipes involving the use of the cooklan
 
 | Website | Repository | User | Description |
 |---------|----------|------|-------------|
-| - | [cookbook](https://github.com/bubonicfred/cookbook) | [bubonicfred](https://github.com/bubonicfred) | Repository of recipes made with Cooklang. |
 | - | [cookbook](https://github.com/dubadub/cookbook) | [dubadub](https://github.com/dubadub/) | Repo with recipes written in Cooklang. |
+| [recipes](https://nicholaswilde.io/recipes/) | [recipes](https://github.com/nicholaswilde/recipes/tree/main/cook) | [nicholaswilde](https://github.com/nicholaswilde/) | A collection of recipes made with Cooklang. |
+| [cooking book](https://net-mist-cooking-book.netlify.app/) | [remy](https://github.com/Net-Mist/remy) | [Net-Mist](https://github.com/Net-Mist) | Contains a list of French cooking recipes. |
+| - | [cookbook](https://github.com/bubonicfred/cookbook) | [bubonicfred](https://github.com/bubonicfred) | Repository of recipes made with Cooklang. |
+| [Dan's Online Recipe Book](https://bonmot.ca/~daniel/Recipes/) |- | [CapnDan](https://bonmot.ca/~daniel/) | Dan's Online Recipe Book. |
 | - | [CookBook](https://github.com/Diegothx/CookBook) | [Diegothx](https://github.com/Diegothx) | Repo with recipes written in Cooklang. |
 | - | [RecipeManager](https://github.com/javieruhk/RecipeManager/recipes) | [javieruhk](https://github.com/javieruhk) | Repo with recipes written in Cooklang. |
 | - | [cookbook](https://github.com/2xAA/cookbook/public/recipes) | [2xAA](https://github.com/2xAA) | Repo with recipes written in Cooklang. |
@@ -55,8 +58,5 @@ This is a curated list of cookbooks and recipes involving the use of the cooklan
 | - | [recipe_archive](https://github.com/tntraina/recipe_archive) | [tntraina](https://github.com/tntraina) | Repo with recipes written in Cooklang. |
 | - | [recipes](https://github.com/TyHil/recipes/recipes) | [TyHil](https://github.com/TyHil) | Repo with recipes written in Cooklang. |
 | - | [innovation-dinner-2022](https://github.com/XpiritBV/innovation-dinner-2022) | [XpiritBV](https://github.com/XpiritBV) | Repo with recipes written in Cooklang. |
-| [cooking book](https://net-mist-cooking-book.netlify.app/) | [remy](https://github.com/Net-Mist/remy) | [Net-Mist](https://github.com/Net-Mist) | Contains a list of French cooking recipes. |
-| [Dan's Online Recipe Book](https://bonmot.ca/~daniel/Recipes/) |- | [CapnDan](https://bonmot.ca/~daniel/) | Dan's Online Recipe Book. |
-| [recipes](https://nicholaswilde.io/recipes/) | [recipes](https://github.com/nicholaswilde/recipes/tree/main/cook) | [nicholaswilde](https://github.com/nicholaswilde/) | A collection of recipes made with Cooklang. |
 
 [1]: https://cooklang.org/
