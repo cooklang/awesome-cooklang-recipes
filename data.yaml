@@ -71,7 +71,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "RecipeManager"
-      url: "https://github.com/javieruhk/RecipeManager/recipes"
+      url: "https://github.com/javieruhk/RecipeManager/tree/main/recipes"
     user:
       name: "javieruhk"
       url: "https://github.com/javieruhk"
@@ -81,7 +81,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "cookbook"
-      url: "https://github.com/2xAA/cookbook/public/recipes"
+      url: "https://github.com/2xAA/cookbook/tree/main/public/recipes"
     user:
       name: "2xAA"
       url: "https://github.com/2xAA"
@@ -101,7 +101,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipebook"
-      url: "https://github.com/azlekov/recipebook/recipes"
+      url: "https://github.com/azlekov/recipebook/tree/main/recipes"
     user:
       name: "azlekov"
       url: "https://github.com/azlekov"
@@ -111,7 +111,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "cookbook"
-      url: "https://github.com/BraeTroutman/cookbook/_recipes"
+      url: "https://github.com/BraeTroutman/cookbook/tree/main/_recipes"
     user:
       name: "BraeTroutman"
       url: "https://github.com/BraeTroutman"
@@ -131,7 +131,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "site"
-      url: "https://github.com/briansunter/site/site/recipes"
+      url: "https://github.com/briansunter/site/tree/master/site/recipes"
     user:
       name: "briansunter"
       url: "https://github.com/briansunter"
@@ -141,7 +141,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "cooking"
-      url: "https://github.com/crhuber/cooking/recipes/"
+      url: "https://github.com/crhuber/cooking"
     user:
       name: "crhuber"
       url: "https://github.com/crhuber"
@@ -161,7 +161,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipes"
-      url: "https://github.com/demosjarco/recipes/recipes"
+      url: "https://github.com/demosjarco/recipes/tree/main/recipes"
     user:
       name: "demosjarco"
       url: "https://github.com/demosjarco"
@@ -171,7 +171,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipes"
-      url: "https://github.com/dzenzes/recipes/src"
+      url: "https://github.com/dzenzes/recipes/tree/main/src"
     user:
       name: "dzenzes"
       url: "https://github.com/dzenzes"
@@ -181,7 +181,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "my-recipes-cooklang"
-      url: "https://github.com/firefly2442/my-recipes-cooklang/recipes"
+      url: "https://github.com/firefly2442/my-recipes-cooklang/tree/master/recipes"
     user:
       name: "firefly2442"
       url: "https://github.com/firefly2442"
@@ -211,7 +211,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipes"
-      url: "https://github.com/iandennismiller/recipes/cook"
+      url: "https://github.com/iandennismiller/recipes/tree/master/cook"
     user:
       name: "iandennismiller"
       url: "https://github.com/iandennismiller"
@@ -231,7 +231,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipes"
-      url: "https://github.com/isaacvando/recipes/src"
+      url: "https://github.com/isaacvando/recipes/tree/master/src"
     user:
       name: "isaacvando"
       url: "https://github.com/isaacvando"
@@ -241,7 +241,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "RecipeBook"
-      url: "https://github.com/jnobles/RecipeBook/Cook Files"
+      url: "https://github.com/jnobles/RecipeBook/tree/master/Cook%20Files"
     user:
       name: "jnobles"
       url: "https://github.com/jnobles"
@@ -251,7 +251,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "helanxiaochu"
-      url: "https://github.com/JorenC/helanxiaochu/src/assets/recipes"
+      url: "https://github.com/JorenC/helanxiaochu/tree/master/src/assets/recipes"
     user:
       name: "JorenC"
       url: "https://github.com/JorenC"
@@ -271,7 +271,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "rezepte"
-      url: "https://github.com/leMaik/rezepte/recipes"
+      url: "https://github.com/leMaik/rezepte/tree/master/recipes"
     user:
       name: "leMaik"
       url: "https://github.com/leMaik"
@@ -281,7 +281,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "cooklang-recipes"
-      url: "https://github.com/LiHRaM/cooklang-recipes/recipes"
+      url: "https://github.com/LiHRaM/cooklang-recipes/tree/main/recipes"
     user:
       name: "LiHRaM"
       url: "https://github.com/LiHRaM"
@@ -291,7 +291,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "comidadaboa"
-      url: "https://github.com/LudeeD/comidadaboa/recipes"
+      url: "https://github.com/LudeeD/comidadaboa/tree/main/recipes"
     user:
       name: "LudeeD"
       url: "https://github.com/LudeeD"
@@ -301,17 +301,17 @@ userCookbooks:
       url: ""
     cooklang:
       name: "menu"
-      url: "https://github.com/luizribeiro/menu/recipes"
+      url: "https://github.com/luizribeiro/menu/tree/main/recipes"
     user:
       name: "luizribeiro"
       url: "https://github.com/luizribeiro"
-  - description: "Repo with recipes written in Cooklang."
+  - description: "Repo with cocktails written in Cooklang."
     website:
       name: "-"
       url: ""
     cooklang:
       name: "galaiko.rocks"
-      url: "https://github.com/ngalaiko/galaiko.rocks/assets/cocktails"
+      url: "https://github.com/ngalaiko/galaiko.rocks/tree/master/assets/cocktails"
     user:
       name: "ngalaiko"
       url: "https://github.com/ngalaiko"
@@ -321,7 +321,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "cookbook"
-      url: "https://github.com/openpaul/cookbook/cook"
+      url: "https://github.com/openpaul/cookbook/tree/main/cook"
     user:
       name: "openpaul"
       url: "https://github.com/openpaul"
@@ -371,7 +371,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipes"
-      url: "https://github.com/tdstein/recipes/recipes"
+      url: "https://github.com/tdstein/recipes/tree/master/recipes"
     user:
       name: "tdstein"
       url: "https://github.com/tdstein"
@@ -391,7 +391,7 @@ userCookbooks:
       url: ""
     cooklang:
       name: "recipes"
-      url: "https://github.com/TyHil/recipes/recipes"
+      url: "https://github.com/TyHil/recipes/tree/main/recipes"
     user:
       name: "TyHil"
       url: "https://github.com/TyHil"
