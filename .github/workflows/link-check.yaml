@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Check markdown links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
